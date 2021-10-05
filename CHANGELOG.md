@@ -1,6 +1,6 @@
 # Changelog
 
-## *V 0.0 // Initial Commit* &nbsp; `2021-09-10 10:45`
+## *V 0.0.1 // Initial Commit* &nbsp; `2021-09-10 10:45`
 ### Added
 - Created repository
 
